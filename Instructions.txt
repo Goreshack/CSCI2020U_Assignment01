@@ -1,0 +1,30 @@
+Basic instructions:
+
+Utilized IntelliJ to supply executable .jar file. Once the repository has 
+been downloaded, pulled, cloned or magically delievered via Fairies simply
+double click (albeit I assume you've figured that much out).
+
+Once you launch the program and admire all of the hardwork put into it's
+masterful design techniques, it's time to choose your directory. And 
+this is the weakest point of the design, as it requires the DIR to 
+contain both "train" and "test" -- however if not choosen that has 
+been error checked. Also of note is the fact that you can't edit these
+textfields (you know who you are). This is done via "Choose Dir..." button
+and the rest will be taken care of for you.
+
+If you want to test larger datasets (given that the new Dir  contains
+both train and test) or you simply want to admire the background once again
+just click the button convieniently labelled "Clear Data". 
+
+If I had to guess, the larger the dataset the lower the accuracy and perhaps the higher 
+the precision. It's hard to tell if I implemented the algorithm correctly at times
+just given the sheer numbers of 0.0 and 1.0 -- albeit I realize the 0.0 is merely
+due to the decimal limitations. 
+
+TL;DR:
+
+1. Pull repos
+2. DClick jar
+3. Choose dir using "Choose Dir..."
+4. Clear data using "Clear Data"
+5. Get out of this boring program

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CSCI2020U_Assignment1_100491442:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="CSCI2020U_Assignment1_100491442.jar">
+      <element id="module-output" name="CSCI2020U_Assignment1_100491442" />
+    </root>
+  </artifact>
+</component>
