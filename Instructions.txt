@@ -28,3 +28,6 @@ TL;DR:
 3. Choose dir using "Choose Dir..."
 4. Clear data using "Clear Data"
 5. Get out of this boring program
+
+Also, according to my trials, the accuracy and precision both fall after running
+the version pulled from github.  Very strange. 
